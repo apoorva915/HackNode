@@ -9,24 +9,17 @@ import sys
 import subprocess
 import argparse
 from pathlib import Path
-from core.logger import get_logger
-
-# Initialize logger
-logger = get_logger("StartupScript")
 
 def check_dependencies():
     """Check if required dependencies are installed"""
-    logger.info("Checking system dependencies")
     try:
         import flask
         import requests
         import networkx
         import pandas
-        logger.info("All required dependencies are installed")
         print("✅ All required dependencies are installed")
         return True
     except ImportError as e:
-        logger.error(f"Missing dependency: {e}")
         print(f"❌ Missing dependency: {e}")
         print("Please run: pip install -r requirements.txt")
         return False

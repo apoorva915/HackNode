@@ -9,11 +9,7 @@ import argparse
 import sys
 from datetime import datetime
 from core.blockchain_tracker import BlockchainTracker
-from core.logger import get_logger
 from core.colors import *
-
-# Initialize logger
-logger = get_logger("CLI")
 
 def banner():
     """Display the BlockTracker banner"""
@@ -63,31 +59,23 @@ def help():
 
 def whataddress(addresses):
     """Detect cryptocurrency type from addresses"""
-    logger.info(f"Currency detection requested for {len(addresses)} address(es)")
     tracker = BlockchainTracker()
     
     for i, address in enumerate(addresses):
-        logger.info(f"Processing address #{i+1}: {address[:10]}...")
         print(f"\nAddress #{i+1}: {address}")
         print("-" * 50)
         
         currency = tracker.detect_currency(address)
         if currency != 'UNKNOWN':
             print(f"Detected: {currency}")
-            logger.info(f"Currency detected: {address[:10]}... -> {currency}")
         else:
             print("Unknown or unsupported address format")
-            logger.warning(f"Unknown currency format: {address[:10]}...")
         
         # Try to get additional info if it's a supported currency
         if currency in ['ETH', 'BTC', 'TRX']:
             print(f"Status: Supported for full analysis")
-            logger.info(f"Address {address[:10]}... is fully supported")
         else:
             print(f"Status: Basic support only")
-            logger.info(f"Address {address[:10]}... has basic support only")
-    
-    logger.info("Currency detection completed")
 
 def track_transactions(addresses):
     """Track transactions for addresses (enhanced version)"""
@@ -282,8 +270,6 @@ def generate_graph(addresses):
 
 def main():
     """Main function"""
-    logger.info("BlockTracker CLI started")
-    
     parser = argparse.ArgumentParser(
         description='Enhanced BlockTracker - Cryptocurrency Transaction Analyzer',
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -311,34 +297,24 @@ Examples:
     
     args = parser.parse_args()
     
-    # Log command line arguments
-    logger.info(f"CLI arguments: {args}")
-    
     # Show banner if no arguments
     if not any([args.whataddress, args.track, args.analyze, args.graph]):
-        logger.info("No arguments provided, showing banner and help")
         banner()
         help()
         return
     
     # Process arguments
     if args.whataddress:
-        logger.info(f"Processing whataddress command for {len(args.whataddress)} address(es)")
         whataddress(args.whataddress)
     
     if args.track:
-        logger.info(f"Processing track command for {len(args.track)} address(es)")
         track_transactions(args.track)
     
     if args.analyze:
-        logger.info(f"Processing analyze command for {len(args.analyze)} address(es)")
         analyze_address(args.analyze)
     
     if args.graph:
-        logger.info(f"Processing graph command for {len(args.graph)} address(es)")
         generate_graph(args.graph)
-    
-    logger.info("BlockTracker CLI completed successfully")
 
 if __name__ == '__main__':
     main() 
