@@ -1,0 +1,130 @@
+2025-08-20 11:29:35,009 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:29:35,009 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:29:35,009 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:29:35,082 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:29:35,082 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:29:35,090 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:29:44,735 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:29:44,735 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:29:44,735 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:29:44,794 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:29:44,794 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:29:44,794 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:29:54,392 | USER_ACTION | Initializing Flask application
+2025-08-20 11:29:54,392 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:29:54,392 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:29:54,392 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:29:54,392 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:29:54,492 | USER_ACTION | Initializing Flask application
+2025-08-20 11:29:54,492 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:29:54,492 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:29:54,492 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:29:54,492 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:30:01,091 | USER_ACTION | Initializing Flask application
+2025-08-20 11:30:01,091 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:30:01,091 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:30:01,091 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:30:01,091 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:30:01,187 | USER_ACTION | Initializing Flask application
+2025-08-20 11:30:01,187 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:30:01,187 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:30:01,187 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:30:01,204 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:30:21,968 | USER_ACTION | Initializing Flask application
+2025-08-20 11:30:21,968 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:30:21,968 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:30:21,968 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:30:21,968 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:30:22,103 | USER_ACTION | Initializing Flask application
+2025-08-20 11:30:22,103 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:30:22,103 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:30:22,103 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:30:22,103 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:30:34,686 | USER_ACTION | Initializing Flask application
+2025-08-20 11:30:34,686 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:30:34,686 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:30:34,686 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:30:34,688 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:30:34,869 | USER_ACTION | Initializing Flask application
+2025-08-20 11:30:34,869 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:30:34,869 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:30:34,869 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:30:34,869 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:30:44,410 | USER_ACTION | Initializing Flask application
+2025-08-20 11:30:44,410 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:30:44,410 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:30:44,410 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:30:44,410 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:30:44,427 | USER_ACTION | Starting Flask server
+2025-08-20 11:30:44,580 | USER_ACTION | Initializing Flask application
+2025-08-20 11:30:44,588 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:30:44,588 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:30:44,588 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:30:44,588 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:30:44,588 | USER_ACTION | Starting Flask server
+2025-08-20 11:31:42,604 | USER_ACTION | Initializing Flask application
+2025-08-20 11:31:42,604 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:31:42,604 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:31:42,604 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:31:42,604 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:31:42,607 | USER_ACTION | Starting Flask server
+2025-08-20 11:31:51,997 | USER_ACTION | Initializing Flask application
+2025-08-20 11:31:51,997 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:31:51,997 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:31:51,997 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:31:51,997 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:31:51,997 | USER_ACTION | Starting Flask server
+2025-08-20 11:32:23,501 | USER_ACTION | Initializing Flask application
+2025-08-20 11:32:23,501 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:32:23,501 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:32:23,501 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:32:23,501 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:32:23,501 | USER_ACTION | Starting Flask server
+2025-08-20 11:36:04,767 | USER_ACTION | Initializing Flask application
+2025-08-20 11:36:04,767 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:36:04,767 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:36:04,767 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:36:04,767 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:36:04,767 | USER_ACTION | Starting Flask server
+2025-08-20 11:36:31,162 | USER_ACTION | BlockTracker CLI started
+2025-08-20 11:36:31,168 | USER_ACTION | CLI arguments: Namespace(whataddress=['0x742d35Cc6634C0532925a3b8D4C9db96C4b4d8b6'], track=None, analyze=None, graph=None)
+2025-08-20 11:36:31,168 | USER_ACTION | Processing whataddress command for 1 address(es)
+2025-08-20 11:36:31,168 | USER_ACTION | Currency detection requested for 1 address(es)
+2025-08-20 11:36:31,168 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:36:31,168 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:36:31,168 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:36:31,168 | USER_ACTION | Processing address #1: 0x742d35Cc...
+2025-08-20 11:36:31,168 | USER_ACTION | Detecting currency for address: 0x742d35Cc...
+2025-08-20 11:36:31,168 | USER_ACTION | Currency detection result: 0x742d35Cc... -> ETH
+2025-08-20 11:36:31,168 | USER_ACTION | Currency detected: 0x742d35Cc... -> ETH
+2025-08-20 11:36:31,168 | USER_ACTION | Address 0x742d35Cc... is fully supported
+2025-08-20 11:36:31,168 | USER_ACTION | Currency detection completed
+2025-08-20 11:36:31,168 | USER_ACTION | BlockTracker CLI completed successfully
+2025-08-20 11:37:52,618 | USER_ACTION | Checking system dependencies
+2025-08-20 11:37:53,463 | USER_ACTION | All required dependencies are installed
+2025-08-20 11:37:57,006 | USER_ACTION | Initializing Flask application
+2025-08-20 11:37:57,006 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:37:57,006 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:37:57,006 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:37:57,006 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:37:57,006 | USER_ACTION | Starting Flask server
+2025-08-20 11:37:57,006 | USER_ACTION | Error in startup logging: 'Logger' object has no attribute 'log_startup'
+2025-08-20 11:37:57,006 | USER_ACTION | Flask server starting on http://0.0.0.0:5000
+2025-08-20 11:37:57,560 | USER_ACTION | Initializing Flask application
+2025-08-20 11:37:57,560 | USER_ACTION | Initializing BlockchainTracker
+2025-08-20 11:37:57,560 | USER_ACTION | BlockchainTracker configuration: {'etherscan_api_key_configured': True, 'bitcoin_api_url': 'https://blockstream.info/api', 'tron_api_url': 'https://api.trongrid.io'}
+2025-08-20 11:37:57,560 | USER_ACTION | BlockchainTracker initialized successfully
+2025-08-20 11:37:57,560 | USER_ACTION | Flask application initialized successfully
+2025-08-20 11:37:57,560 | USER_ACTION | Starting Flask server
+2025-08-20 11:37:57,565 | USER_ACTION | Error in startup logging: 'Logger' object has no attribute 'log_startup'
+2025-08-20 11:37:57,565 | USER_ACTION | Flask server starting on http://0.0.0.0:5000
+2025-08-20 11:38:09,039 | USER_ACTION | Address analysis requested: 0x742d35Cc...
+2025-08-20 11:38:09,044 | USER_ACTION | Starting analysis for address: 0x742d35Cc...
+2025-08-20 11:38:09,044 | USER_ACTION | Starting transaction flow analysis for address: 0x742d35Cc...
+2025-08-20 11:38:09,044 | USER_ACTION | Auto-detecting currency for address: 0x742d35Cc...
+2025-08-20 11:38:09,044 | USER_ACTION | Detecting currency for address: 0x742d35Cc...
+2025-08-20 11:38:09,045 | USER_ACTION | Currency detection result: 0x742d35Cc... -> ETH
+2025-08-20 11:38:09,045 | USER_ACTION | Detected currency: ETH
+2025-08-20 11:38:09,045 | USER_ACTION | Fetching transactions for ETH address: 0x742d35Cc...
+2025-08-20 11:38:09,045 | USER_ACTION | Fetching Ethereum transactions for address: 0x742d35Cc... | Max: 1000
+2025-08-20 11:38:09,045 | USER_ACTION | Making Etherscan API request: https://api.etherscan.io/api | Params: {'module': 'account', 'action': 'txlist', 'address': '0x742d35Cc6634C0532925a3b8D4C9db96C4b4d8b6', 'startblock': 0, 'endblock': 99999999, 'sort': 'asc', 'apikey': 'VE4FARHUSAK9RM221QA4N82M5WUFDAGERE'}

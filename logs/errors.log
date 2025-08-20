@@ -1,0 +1,2 @@
+2025-08-20 11:37:57,006 | ERROR    | BlockTracker.FlaskApp | <module>             | 209  | Error in startup logging: 'Logger' object has no attribute 'log_startup'
+2025-08-20 11:37:57,565 | ERROR    | BlockTracker.FlaskApp | <module>             | 209  | Error in startup logging: 'Logger' object has no attribute 'log_startup'
